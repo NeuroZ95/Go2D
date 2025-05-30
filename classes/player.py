@@ -48,7 +48,7 @@ class Player(GameObject):
         # Гравитация
         self.vy = self.gravity
         self.y += self.vy
-        self.gravity += 0.1  # сила гравитации
+        self.gravity += 0.2  # сила гравитации
 
         # Проверка земли
         if self.y + radius >= sh:
