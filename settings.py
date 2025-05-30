@@ -6,7 +6,7 @@ pygame.mixer.init()
 
 WINDOW_SIZE = (1360, 720)
 
-WINDOW_CAPTION = "Go3D"
+WINDOW_CAPTION = "Go2D"
 
 WINDOW_ICON = pygame.image.load("icon.ico")
 
